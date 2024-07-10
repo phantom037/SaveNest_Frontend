@@ -1,12 +1,12 @@
-# piggy_bank
+# SaveNest
 
-A new Flutter project.
+A demo Flutter Project UI fot SaveNest
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a the frontend application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this you need to run the project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
